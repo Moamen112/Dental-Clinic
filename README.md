@@ -1,6 +1,6 @@
 # Dental-Clinic
 
--   npx create-react-app green-tree
+-   npx create-react-app dental-clinic
 -   Replace all the files from the repo to your folder
 -   Then install the packages below
 
